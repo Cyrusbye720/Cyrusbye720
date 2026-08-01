@@ -28,7 +28,6 @@ Minecraft tooling • Full stack web • Systems • AI/ML
 | [ZDiscord](https://github.com/DemonZ-Development/ZDiscord) | Minecraft server plugin for Discord chat, roles, and server info |
 | [axiom-agent](https://github.com/NexaraAI/axiom-agent) | Terminal-first Rust agentic CLI |
 | [nexara-nano-100m-chat](https://github.com/NexaraAI/nexara-nano-100m-chat) | Experimental chat model trained from scratch |
-| [Nexara-agent](https://github.com/NexaraAI/Nexara-agent) | Cross-platform autonomous framework with Gemini + LLM fallback chain |
 
 </div>
 
@@ -86,6 +85,8 @@ Minecraft tooling • Full stack web • Systems • AI/ML
 ---
 
 <div align="center">
+
+> **Note:** `Nexara-agent` and `Nexara-skills` are archived for now. I may return to them later to continue the Nexara docs and development.
 
 ### Connect
 
