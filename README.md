@@ -1,18 +1,28 @@
-# Hi there, I'm Cyrus
+# Cyrus
 
-I am a web developer focused on building and sharing open-source web repositories with the developer community for free. 
+Open source developer focused on **Minecraft tooling**, **Velocity**, and **backend systems**.
 
-Beyond web development, I spend a lot of my time working on community-driven Minecraft projects—developing custom plugins and mods—as well as training AI models from scratch and managing datasets.
-
----
-
-### My Goals
-* **Establish an Organization:** Creating a dedicated space to bring developers together and collaborate on larger projects.
-* **Support the Community:** Providing tools, open-source repositories, and resources to help other developers succeed with their own projects.
+- 🔭 Building under **DemonZ-Development** and **NexaraAI**
+- 💬 Reach me on [Discord](https://discord.com/invite/GYsTt96ypf)
+- 📄 Portfolio / projects: see pinned repos below
 
 ---
 
-### Areas of Work & Tech
-* **Web Development:** HTML, CSS, JavaScript, Git & GitHub
-* **Game Development:** Minecraft plugins and modding
-* **Artificial Intelligence:** Dataset creation and training AI models from scratch
+### Selected Projects
+
+| Project | Stack / Focus |
+|---|---|
+| [VelocityNavigator](https://github.com/DemonZ-Development/VelocityNavigator) | Minecraft Velocity plugin |
+| [DZEconomy](https://github.com/DemonZ-Development/DZEconomy) | Minecraft economy plugin |
+| [Geo-Restrict](https://github.com/DemonZ-Development/Geo-Restrict) | Region restriction tooling |
+| [ZDiscord](https://github.com/DemonZ-Development/ZDiscord) | Minecraft ↔ Discord integration |
+| [axiom-agent](https://github.com/NexaraAI/axiom-agent) | Terminal-first Rust agent CLI |
+| [nexara-nano-100m-chat](https://github.com/NexaraAI/nexara-nano-100m-chat) | Small experimental chat LM |
+
+---
+
+### Tech & Interests
+
+- **Languages:** Java, Kotlin, Rust, Python
+- **Platforms:** Minecraft plugins / mods, Velocity, backend services
+- **Interests:** Open source tooling, AI/ML engineering, systems programming
